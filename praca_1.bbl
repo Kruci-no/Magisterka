@@ -1,0 +1,115 @@
+% \bib, bibdiv, biblist are defined by the amsrefs package.
+\begin{bibdiv}
+\begin{biblist}
+
+\bib{Arrieta-Carvalho-Hale-1992}{article}{
+      author={Arrieta, J.M.},
+      author={Carvalho, A.N.},
+      author={Hale, J.K.},
+       title={A damped hyperbolic equation with critical exponent},
+        date={1992},
+     journal={Comm. Partial Differential Equations},
+      volume={17},
+       pages={841\ndash 866},
+}
+
+\bib{Babin-Vishik-1992}{book}{
+      author={Babin, A.V.},
+      author={Vishik, M.I.},
+       title={Attractors of evolution equations},
+      series={Studies in Mathematics and its Applications},
+   publisher={North-Holland Publishing Co.},
+     address={Amsterdam},
+        date={1992},
+      volume={25},
+}
+
+\bib{Bortolan-Carvalho-Langa-2014}{article}{
+      author={Bortolan, M.C.},
+      author={Carvalho, A.N.},
+      author={Langa, J.A.},
+       title={Structure of attractors for skew product semiflows},
+        date={2014},
+     journal={J. Differential Equations},
+      volume={257},
+       pages={490\ndash 522},
+}
+
+\bib{cap}{article}{
+      author={Capiński, M.},
+      author={Zgliczyński, P.},
+       title={Geometric proof for normally hyperbolic invariant manifolds},
+        date={2015},
+     journal={Journal of Differential Equations},
+      volume={259},
+       pages={6215\ndash 6286},
+}
+
+\bib{Chepyzhov-Vishik-2002}{book}{
+      author={Chepyzhov, V.V.},
+      author={Vishik, M.I.},
+       title={Attractors for equations of mathematical physics},
+      series={Colloq. Publ.},
+   publisher={American Mathematical Society},
+        date={2002},
+      volume={49},
+}
+
+\bib{Fre_Kal_La}{article}{
+      author={Freitas, M.M.},
+      author={Kalita, P.},
+      author={Langa, J.A.},
+       title={Continuity of non-autonomous attractors for hyperbolic
+  perturbation of parabolic equations},
+        date={2018},
+     journal={Journal of Differential Equations},
+      volume={264},
+       pages={1886\ndash 1945},
+}
+
+\bib{Hale-Raugel-1988}{article}{
+      author={Hale, J.K.},
+      author={Raugel, G.},
+       title={Upper semicontinuity of the attractor for a singulary pertubed
+  hyperbolic equation},
+        date={1988},
+     journal={J. Differential Equations},
+      volume={73},
+       pages={197\ndash 214},
+}
+
+\bib{Hale-Raugel-1990}{article}{
+      author={Hale, J.K.},
+      author={Raugel, G.},
+       title={Lower semicontinuity of the attractor for a singulary pertubed
+  hyperbolic equation},
+        date={1990},
+     journal={J. Dynamics and Differential Equations},
+      volume={2},
+       pages={19\ndash 67},
+}
+
+\bib{Savostianov}{article}{
+      author={Kalantarov, V.},
+      author={Savostianov, A.},
+      author={Zelik, S.},
+       title={Attractors for damped quintic wave equations in bounded domains},
+        date={2016},
+     journal={Ann. H. Poincar\'{e}},
+      volume={17},
+       pages={2555\ndash 2584},
+}
+
+\bib{Smith_Sogge}{article}{
+      author={Smith, H.F.},
+      author={Sogge, C.D.},
+       title={On the $l^p$ norm of spectral clusters for compact manifolds with
+  boundary},
+        date={2007},
+     journal={Acta Math.},
+      volume={198},
+       pages={107\ndash 153},
+}
+
+\end{biblist}
+\end{bibdiv}
